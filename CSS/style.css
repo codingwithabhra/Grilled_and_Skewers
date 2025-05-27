@@ -40,7 +40,6 @@ img {
 
 .header{
     position: relative;
-    width: 100vw;
 }
 
 .container {
@@ -181,7 +180,6 @@ nav {
     background-color: #fff;
     padding: 40px 0 130px;
     position: relative;
-    width: 100vw;
 }
 
 .storyImg1 {
@@ -264,7 +262,6 @@ a.button {
 
 .discoverMenu {
     position: relative;
-    width: 100vw;
 }
 
 .discoverMenu img {
@@ -306,7 +303,6 @@ a.button {
 
 .sliderBase {
     position: relative;
-    width: 100vw;
     overflow: hidden;
     padding: 40px 0 20px;
 }
@@ -341,7 +337,6 @@ a.button {
     /* background-color: #355c9e; */
     margin: 10px 0;
     padding: 10px 0;
-    width: 100vw;
 }
 
 .upEvn-box {
@@ -385,7 +380,6 @@ a.button {
 .rsrvtn {
     padding: 90px 0;
     position: relative;
-    width: 100vw;
 }
 
 .rsrvtn hgroup {
@@ -498,7 +492,6 @@ input[type=date] {
 
 footer section {
     position: relative;
-    width: 100vw;
 }
 
 footer img {
