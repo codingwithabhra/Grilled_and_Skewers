@@ -142,7 +142,7 @@ nav {
 .fdBowl {
     position: absolute;
     left: 0;
-    top: 600px;
+    bottom: -12%;
     z-index: 9999;
     animation: fdbowlAnimation 5s infinite linear;
 }
