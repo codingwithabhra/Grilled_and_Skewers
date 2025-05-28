@@ -536,6 +536,129 @@
     }
 }
 
+@media only screen and (max-width:420px) {
+
+    .nav1 {
+        gap: 8px;
+    }
+
+    .nav1 span img {
+        width: 15px;
+    }
+
+    .nav1 span:nth-child(2) {
+        font-size: 9px;
+        line-height: 12px;
+    }
+
+    .fdBowl {
+        width: 150px;
+    }
+
+    .fdBowl {
+        bottom: -20%;
+    }
+
+    .storyImg1 {
+        bottom: -50px;
+        width: 110px;
+    }
+
+    .discoverMenu-cont h3 {
+        font-size: 17px;
+        letter-spacing: 1px;
+    }
+
+    .discoverMenu-cont p {
+        font-size: 10px;
+        width: 80vw;
+    }
+
+    .slide {
+        margin: 0 20px;
+    }
+
+    .upEvn-box-rt img {
+        width: 200px;
+        height: 140px;
+    }
+
+    .upEvn-box p {
+        font-size: 11px;
+        line-height: 14px;
+    }
+
+    .upEvn-box hgroup h3 {
+        font-size: 25px;
+        line-height: 25px;
+        margin-bottom: 10px;
+    }
+
+    .upEvn-box {
+        padding: 4px 15px 14px 15px;
+        box-shadow: 20px 15px 25px 5px rgba(112, 112, 112, 0.292);
+    }
+
+    hgroup h2 {
+        font-size: 14px;
+        letter-spacing: 2px;
+    }
+
+    .rsrvtn hgroup h3 {
+        font-size: 24px;
+        line-height: 25px;
+    }
+
+    .rsrvtn .redGrapes {
+        top: 12%;
+    }
+
+    .frm div {
+        gap: 12px;
+    }
+
+    .frm div input[type="text"],
+    input[type="date"] {
+        width: 160px;
+        font-size: 10px;
+    }
+
+    .frm div button {
+        padding: 5px 10px;
+        width: 179px;
+        font-size: 12px;
+    }
+
+    .footerCont-1 ul li span {
+        font-size: 11px;
+    }
+
+    .footerCont-2 {
+        font-size: 8px;
+    }
+
+    .footerCont-2 div i {
+        font-size: 10px;
+        padding: 5px 6px;
+    }
+
+    .footerCont-2 {
+        padding-top: 6%;
+    }
+
+    .storyRt p {
+        font-size: 14px;
+        line-height: 17px;
+        margin-bottom: 17px;
+    }
+
+    .storyCont {
+        display: flex;
+        gap: 17px;
+        margin: auto 4%;
+    }
+}
+
 @media only screen and (max-width:400px) {
 
     figure img {
